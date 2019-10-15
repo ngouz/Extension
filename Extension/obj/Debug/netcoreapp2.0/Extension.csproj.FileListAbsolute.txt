@@ -1,0 +1,3 @@
+c:\users\ms5n\source\repos\Extension\Extension\obj\Debug\netcoreapp2.0\Extension.csproj.CoreCompileInputs.cache
+c:\users\ms5n\source\repos\Extension\Extension\obj\Debug\netcoreapp2.0\Extension.AssemblyInfoInputs.cache
+c:\users\ms5n\source\repos\Extension\Extension\obj\Debug\netcoreapp2.0\Extension.AssemblyInfo.cs
